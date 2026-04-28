@@ -1,0 +1,47 @@
+body{
+    background-color: violet;
+}
+header{
+    background-color: rgb(224, 230, 173);
+}
+h1{
+    color: red; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+h2{
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+nav{
+    background-color: lightgray;
+}
+nav a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+p{
+    color: blue;
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+}
+img {
+    width: 1000px;
+    height: auto;
+}
+table{
+    width: 60%;
+    height: 100px;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: rosybrown;
+}
+footer{
+    color: brown;
+    background-color: rgb(224, 230, 173);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifq;
+    font-size: 20px;
+}
