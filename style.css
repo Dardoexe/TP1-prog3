@@ -19,7 +19,7 @@ nav{
 }
 nav a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
+    color: rgb(14, 194, 53);
 }
 
 p{
@@ -43,5 +43,16 @@ footer{
     color: brown;
     background-color: rgb(224, 230, 173);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifq;
+    font-size: 20px;
+}
+ol{
+    color: rgb(172, 4, 4);
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+
+}
+ul{
+    color: rgb(211, 29, 29);
+    font-family: 'Arial', sans-serif;
     font-size: 20px;
 }
